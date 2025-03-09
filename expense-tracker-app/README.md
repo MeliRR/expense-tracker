@@ -6,6 +6,8 @@ This **Expense Tracker** is a web-based tool designed to help users track their 
 
 The tool is built using **HTML**, **CSS**, and **JavaScript**. It features a clean and simple interface for users to manage and track their spending easily.
 
+You can watch a demo of my software here: [Software Demo Video](https://youtu.be/w1Y_BN5YsaI)
+
 ## Development Environment
 
 - **HTML**
